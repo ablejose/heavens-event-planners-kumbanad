@@ -1,0 +1,51 @@
+{
+  "slug": "heavens-event-planners-kumbanad",
+  "name": "Heavens Event Planners",
+  "shortName": "Heavens",
+  "descriptor": "Event Management",
+  "address": "CHEMPANAL HOUSE, Kumbanad, Keralam 689547",
+  "area": "Kumbanad",
+  "city": "Kumbanad",
+  "district": "Pathanamthitta",
+  "region": "Kerala",
+  "postalCode": "689547",
+  "geo": {
+    "lat": 9.3673737,
+    "lng": 76.65585370000001
+  },
+  "mapsLink": "https://maps.google.com/?cid=6335436476111177028",
+  "phone": "+91 70250 95058",
+  "whatsapp": "917025095058",
+  "rating": 4.1,
+  "reviewCount": 10,
+  "reviews": [
+    {
+      "name": "Preenu Jacob",
+      "rating": 5,
+      "quote": "Would like to thank Heaven event planner for their excellent services. Food was very tasty and delicious. Thank you for your team effort especially a word of Thanks to Elvin Thomas. Keep up the good work. Well done. So happy with your dedication"
+    },
+    {
+      "name": "Maria Roy",
+      "rating": 5,
+      "quote": "From the very beginning, the Heaven’s team impressed me with their professionalism, creativity, and commitment to excellence. Their leaders, staff, and entire support team were incredibly prompt, answering all my questions and doubts with patience and expertise."
+    },
+    {
+      "name": "Alin Mary Abraham",
+      "rating": 5,
+      "quote": "I had the pleasure of working with Heavens Event Planners and I can confidently say that they are top-notch in the event planning industry. Mr.Elvin truly goes above and beyond to ensure every event is executed flawlessly.His passion and dedication to his clients are evident in every interaction."
+    },
+    {
+      "name": "Shinu dan samuvel",
+      "rating": 5,
+      "quote": "The event and food was good ...thank you sooo much for making my sister engagement wonderful..."
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp",
+    "gallery/04.webp",
+    "gallery/05.webp"
+  ],
+  "url": "https://heavens-event-planners-kumbanad.vercel.app"
+}
